@@ -1,5 +1,7 @@
 # hello-world
-Hello-world repo to get things starting
+Hello-world repo
 
 
 Adding some text int he readme-edits branch
+
+second edit and also deling some earlier text
